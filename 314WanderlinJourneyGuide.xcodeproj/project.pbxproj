@@ -306,7 +306,6 @@
 				75C2B7ADFA40697163BCB782 /* RootWindowPresenter.swift */,
 				55968F713758105A5D312FBD /* WebDocumentSurfaceView.swift */,
 			);
-			name = LaunchFlow;
 			path = LaunchFlow;
 			sourceTree = "<group>";
 		};
@@ -595,7 +594,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.uhr.w8nd7rl1nj09rn7yg78d2;
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
@@ -626,7 +625,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.uhr.w8nd7rl1nj09rn7yg78d2;
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
